@@ -1,1 +1,1 @@
-# next_word_generator
+# next_word_predictor
